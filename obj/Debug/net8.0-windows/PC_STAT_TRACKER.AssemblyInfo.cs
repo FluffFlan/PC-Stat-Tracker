@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PC_STAT_TRACKER")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d4058c7ba6771e93713f465a1fc9bfaeaf7b0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PC_STAT_TRACKER")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PC_STAT_TRACKER")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
