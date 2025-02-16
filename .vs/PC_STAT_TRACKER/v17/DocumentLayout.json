@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7678F98D-3F90-40CC-8A90-0EB80462954A}|PC_STAT_TRACKER\\PC_STAT_TRACKER.csproj|c:\\users\\talaus\\source\\repos\\pc_stat_tracker\\pc_stat_tracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7678F98D-3F90-40CC-8A90-0EB80462954A}|PC_STAT_TRACKER\\PC_STAT_TRACKER.csproj|solutionrelative:pc_stat_tracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7678F98D-3F90-40CC-8A90-0EB80462954A}|PC_STAT_TRACKER\\PC_STAT_TRACKER.csproj|c:\\users\\talaus\\source\\repos\\pc_stat_tracker\\pc_stat_tracker\\datacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7678F98D-3F90-40CC-8A90-0EB80462954A}|PC_STAT_TRACKER\\PC_STAT_TRACKER.csproj|solutionrelative:pc_stat_tracker\\datacollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7678F98D-3F90-40CC-8A90-0EB80462954A}|PC_STAT_TRACKER\\PC_STAT_TRACKER.csproj|c:\\users\\talaus\\source\\repos\\pc_stat_tracker\\pc_stat_tracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7678F98D-3F90-40CC-8A90-0EB80462954A}|PC_STAT_TRACKER\\PC_STAT_TRACKER.csproj|solutionrelative:pc_stat_tracker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678F98D-3F90-40CC-8A90-0EB80462954A}|PC_STAT_TRACKER\\PC_STAT_TRACKER.csproj|c:\\users\\talaus\\source\\repos\\pc_stat_tracker\\pc_stat_tracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7678F98D-3F90-40CC-8A90-0EB80462954A}|PC_STAT_TRACKER\\PC_STAT_TRACKER.csproj|solutionrelative:pc_stat_tracker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,35 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PC_STAT_TRACKER\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\MainWindow.xaml*",
-              "RelativeToolTip": "PC_STAT_TRACKER\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\MainWindow.xaml",
+              "RelativeToolTip": "PC_STAT_TRACKER\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-31T17:29:53.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PC_STAT_TRACKER\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\MainWindow.xaml.cs",
               "RelativeToolTip": "PC_STAT_TRACKER\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T06:09:26.913Z"
+              "WhenOpened": "2025-02-01T06:09:26.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DataViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\DataViewModel.cs",
               "RelativeDocumentMoniker": "PC_STAT_TRACKER\\DataViewModel.cs",
@@ -62,19 +63,21 @@
               "RelativeToolTip": "PC_STAT_TRACKER\\DataViewModel.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:35:34.529Z"
+              "WhenOpened": "2025-01-29T23:35:34.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DataCollection.cs",
               "DocumentMoniker": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\DataCollection.cs",
               "RelativeDocumentMoniker": "PC_STAT_TRACKER\\DataCollection.cs",
               "ToolTip": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\DataCollection.cs",
               "RelativeToolTip": "PC_STAT_TRACKER\\DataCollection.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:18:24.398Z"
+              "WhenOpened": "2025-01-29T20:18:24.398Z",
+              "EditorCaption": ""
             }
           ]
         }

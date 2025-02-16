@@ -34,8 +34,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\MainWindow.xaml",
               "RelativeDocumentMoniker": "PC_STAT_TRACKER\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\MainWindow.xaml",
-              "RelativeToolTip": "PC_STAT_TRACKER\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\MainWindow.xaml*",
+              "RelativeToolTip": "PC_STAT_TRACKER\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-31T17:29:53.081Z",
               "EditorCaption": ""
@@ -48,9 +48,10 @@
               "RelativeDocumentMoniker": "PC_STAT_TRACKER\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\MainWindow.xaml.cs",
               "RelativeToolTip": "PC_STAT_TRACKER\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T06:09:26.913Z"
+              "WhenOpened": "2025-02-01T06:09:26.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,7 +63,8 @@
               "RelativeToolTip": "PC_STAT_TRACKER\\DataViewModel.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwA8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T23:35:34.529Z"
+              "WhenOpened": "2025-01-29T23:35:34.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,9 +74,10 @@
               "RelativeDocumentMoniker": "PC_STAT_TRACKER\\DataCollection.cs",
               "ToolTip": "C:\\Users\\Talaus\\source\\repos\\PC_STAT_TRACKER\\PC_STAT_TRACKER\\DataCollection.cs",
               "RelativeToolTip": "PC_STAT_TRACKER\\DataCollection.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T20:18:24.398Z"
+              "WhenOpened": "2025-01-29T20:18:24.398Z",
+              "EditorCaption": ""
             }
           ]
         }
